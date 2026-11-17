@@ -1,0 +1,1 @@
+// Add your ScreenCaptureKit / AVAssetWriter implementation here.\n

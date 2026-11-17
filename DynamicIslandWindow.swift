@@ -1,0 +1,1 @@
+// Add your NSPanel implementation here.\n
